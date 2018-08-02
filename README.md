@@ -1,3 +1,6 @@
 # Project 3
 
-Web Programming with Python and JavaScript
+Web Programming in Django
+
+Admin user: admin
+password: project3Dj
